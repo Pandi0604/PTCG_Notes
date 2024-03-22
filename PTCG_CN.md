@@ -1,5 +1,4 @@
-# 《简中环境构筑》
-
+# 小Tips笔记
 
 Tord那一套是手里憋大恶鸟，墓地堆俩恶能，卖一个队友之后，
 奇巴纳吸能、恶鸟自己吸、奇巴纳找恶能手填一个，上去直接踹梦幻。
@@ -21,12 +20,12 @@ Tord那一套是手里憋大恶鸟，墓地堆俩恶能，卖一个队友之后�
 
 ■ 场地卡，每回合只能下一张：
 Only one Stadium card may be in play at any time, and the playing of a new Stadium card causes the current one to be discarded. 
-Players may only play one Stadium card per turn and may not play a Stadium card that has the same name as the one currently in play.
+Players may only play one Stadium ca  rd per turn and may not play a Stadium card that has the same name as the one currently in play.
 
 
-## 连击熊
+# 连击熊
 
-### 5.0 笔记
+## 5.0 笔记
 
 □
 连击熊**先进化、再换位**：
@@ -81,7 +80,7 @@ Players may only play one Stadium card per turn and may not play a Stadium card 
 对于一击必杀的咚咚鼠GX（两倍克制），可以先留着不杀，因为GX可以被“强力捕捉器”抓到前排来。博士的研究找到强力捕捉器完成最终击杀，是非常漂亮的画面。同时，战吼工具人留着不杀，可以消耗对面一个格子。
 
 
-### 5.5 笔记
+## 5.5 笔记
 
 ■
 副打手快射千面：
@@ -151,7 +150,7 @@ Players may only play one Stadium card per turn and may not play a Stadium card 
 如果准备用养鸟人换位的话，可以先用养鸟人把一只一定能撤下来的怪换上去（比如穿滑板鞋的1撤怪），然后根据抽到的三张牌决定后续动作。而不用一步到位。这样操作，往往会提升容错空间。
 
 
-### 6.0 笔记
+## 6.0 笔记
 
 ■
 回转滑板与千面轴的契合性被许多玩家严重低估。搭配一撤怪的免费撤退，被昏厥、被回收后的重复使用，搭配二撤怪的主动弃一能，有很强的灵活性与泛用性。这是气球完全无法替代的。总之，场上有了回转滑板，大熊的一技能就更容易打出来了。
@@ -182,7 +181,7 @@ Players may only play one Stadium card per turn and may not play a Stadium card 
 
 
 
-■ 白马
+# 简中白马
 □ 先手回合，当手中既有白马又有泪眼蜥时，让谁中单是个很大的学问。
 这个命题的答案其实取决于其他手牌，尤其是有没有水能、美蓉。
 开局优先保证每回合的手填轮次能利用上。
@@ -191,12 +190,9 @@ Players may only play one Stadium card per turn and may not play a Stadium card 
 
 
 
-《国际环境构筑》
 
 
-
-
-■ 恶喷
+# 国际恶喷
 马鹰龙三角阵，养马，熬鹰，训龙。
 阿尔宙斯V的一技能可以给后排V宝可梦贴3个基本能量，这个技能在关键时期，可以养后排的阿尔宙斯V、长尾火狐V等。
 腰带对对面EX无用。
@@ -206,8 +202,7 @@ Players may only play one Stadium card per turn and may not play a Stadium card 
 
 
 
-《对战派对日月版》
-
+# 对战派对
 
 
 ■ 通用经验心得
@@ -305,7 +300,7 @@ Players may only play one Stadium card per turn and may not play a Stadium card 
 
 
 
-《小知识总结》
+# 小知识总结
 
 ■ 异常状态
 每个玩家回合结束之后，进入【检查阶段】，对异常状态进行检查。该阶段不属于任何玩家的回合，因此在这个阶段如果出现宝可梦昏厥，则不在任何玩家回合内，不会触发诸如“奇巴纳”的卡牌发动条件（要求上个对手回合内，有自己宝可梦昏厥）。
